@@ -1,0 +1,23 @@
+# build products
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+*.a
+*.so
+*.dylib
+bin/
+build/
+ActualOutputs/
+
+# flex/bison
+lex.yy.c
+y.tab.*
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
